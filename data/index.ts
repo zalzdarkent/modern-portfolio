@@ -106,33 +106,33 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Collaborating with Zalz was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Zalz's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and brand, Zalz is the ideal partner.",
+    name: "Budi Santoso",
+    title: "Director of Nusantara Digital Solutions",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Working with Zalz was a fantastic experience. His attention to detail, creative approach, and ability to meet deadlines were impressive. I highly recommend Zalz for any web development projects.",
+    name: "Rina Kartika",
+    title: "CEO of Cakrawala Tech",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Zalz is a top-notch developer with a strong work ethic. He brought our ideas to life with his coding expertise and was a key part of our project's success. I would gladly collaborate with him again.",
+    name: "Agus Wirawan",
+    title: "CTO of Garuda Innovations",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "I had the pleasure of working with Zalz on a complex web application. His problem-solving skills and technical knowledge were instrumental in delivering a high-quality product. Highly recommended!",
+    name: "Dewi Lestari",
+    title: "Project Manager at Semesta Digital",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Zalz's dedication and commitment to excellence are truly inspiring. He consistently went above and beyond to ensure our project was a success. I look forward to working with him on future projects.",
+    name: "Andi Pratama",
+    title: "Founder of Merah Putih Tech",
   },
 ];
 
